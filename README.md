@@ -12,7 +12,7 @@ We will be using the Flickr8k dataset, a widely used benchmark dataset for image
 ​
 Our image captioning model architecture combines the strengths of Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs). Here's how it works:
 
-
+![image] (https://github.com/PoojaKHalannavar/Image-Caption-Generator/blob/main/assets/model_architecture.png)
 
 ### **Convolutional Neural Network (CNN):**
 ​
@@ -46,3 +46,5 @@ We evaluate the model's performance using metrics such as BLEU score, which comp
 Hyperparameters like learning rate, batch size, and optimizer settings are fine-tuned to improve the model's performance on the validation set.
 
 ### **Ouput**
+
+![image] (https://github.com/PoojaKHalannavar/Image-Caption-Generator/blob/main/assets/output_ss.PNG)
